@@ -1,5 +1,5 @@
 // 🚀 Smart Irrigation System with Emergency Mode, Serial Plotter & DS3231 RTC 🚀
-// Author: [Your Name]
+// Author: [TAOURIRT LAMRI] for short Dr LECTER
 // Description: Reads temperature & humidity from a DHT21 sensor, controls an LED & buzzer,
 // displays real-time data on Serial Plotter, and logs timestamps using DS3231 RTC.
 
